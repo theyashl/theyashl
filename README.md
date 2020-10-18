@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on Intellico Labs Meta-Scootywala Startup
+- 🌱 I’m currently learning Machine Learning Regression
+- 💬 Ask me about Anything you want help with!
+- 📫 How to reach me: https://twitter.com/YashLohakare
