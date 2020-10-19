@@ -24,11 +24,14 @@ Here are some ideas to get you started:
 
 <h3>🛠 My Skills</h3>
 
+- 💻 &nbsp; Python | C | Java | C++  
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | IntelliJ | Git
+
+<!--
 - 💻 &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/python.svg" width="20px">Python | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/c.svg" width="20px"> C | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/java.svg" width="20px">Java | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/cplusplus.svg" width="20px">C++  
 - 🌐 &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/android.svg" width="20px">Android | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/html5.svg" width="20px">HTML | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/css3.svg" width="20px">CSS | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/javascript.svg" width="20px">JavaScript
 - 🔧 &nbsp; <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/androidstudio.svg" width="20px">Android Studio | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/pycharm.svg" width="20px">PyCharm | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/visualstudiocode.svg" width="20px">Visual Studio code | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/intellijidea.svg" width="20px">IntelliJ | <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.0/icons/git.svg" width="20px">Git
-
-<!--
 <br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=theyashl&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="theyashl's Github Stats">
