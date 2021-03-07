@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
-- 🔭 I’m currently working on Website development using Django
-- 🌱 I’m currently learning Machine Learning Regression
+- 🔭 I’m currently working on Peer-2-Peer Network building
+- 🌱 I’m currently learning Google Cloud Platform Fundamentals
 - 💬 Ask me about Anything you want help with!
 - 📫 Reach me at: <a href="https://twitter.com/YashLohakare">@YashLohakare</a>
 - ⚡ Fun fact: ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
