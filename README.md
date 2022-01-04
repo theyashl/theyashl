@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <p align="center">
 &nbsp; <a href="https://twitter.com/YashLohakare" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
 &nbsp; <a href="https://www.instagram.com/theyashl/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/prathamesh-lohakare-83a6b616b/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/prathameshlohakare/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:yashlohakare48@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 &nbsp; <a href="t.me/theyashl" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/telegram-app.png"  width="50" /></a>
 </p>
