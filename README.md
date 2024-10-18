@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Peer-2-Peer Network building
 - 🌱 I’m currently learning VOD streaming implementation
 - 💬 Ask me about Anything you want help with!
-- 📫 Reach me at: <a href="https://twitter.com/YashLohakare">@YashLohakare</a>
-- ⚡ Fun fact: ☕ &nbsp; I belive, a perfect cup of Tea can be the ultimate solution for any stress. 
+- 📫 Reach me out on [Telegram](https://t.me/DrPratyash)
+- ⚡ Fun fact: ☕ &nbsp; I believe, a perfect cup of Tea can be the ultimate solution for any stress. 
 
 <h3>🛠 My Skills</h3>
 
