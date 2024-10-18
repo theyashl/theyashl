@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 My Skills</h3>
 
-- 💻 &nbsp; Python | C | Java | C++  
+- 💻 &nbsp; Python | Go | Java | C++
 - 🌐 &nbsp; Android | HTML | CSS | JavaScript
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | IntelliJ | Git
 
